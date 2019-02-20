@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/db"
+    android:title="DashBoard"
+    android:icon="@drawable/ic_download_business_statistics_symbol_of_a_graphic"/>
+
+    <item android:id="@+id/upload"
+        android:title="Upload"
+        android:icon="@drawable/ic_upload"/>
+        <item android:id="@+id/setting"
+            android:title="Setting"
+            android:icon="@drawable/ic_settings_gears"/>
+
+            <item android:id="@+id/share"
+                android:title="Share"
+                android:icon="@drawable/ic_menu_share"/>
+
+                <item android:id="@+id/logout"
+                    android:title="Logout"
+                    android:icon="@drawable/ic_logout"/>
+</menu>
